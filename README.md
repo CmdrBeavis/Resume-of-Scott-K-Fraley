@@ -19,10 +19,13 @@ If you are looking for a Software Development Engineer with:
 
 Then look no further. You will see from my enclosed resume that I meet all of these qualifications and more.
 
-E-Mail: scott.k.fraley@gmail.com
-Phone number on resume.
-LinkedIn: http://www.linkedin.com/in/scottkfraley
-Twitter: http://twitter.com/ScottKFraley / @ScottKFraley
-GitHub: http://github.com/CmdrBeavis
+## Contact Info
+- E-Mail: scott.k.fraley@gmail.com
+- Phone number on resume.
+- LinkedIn: http://www.linkedin.com/in/scottkfraley
+- Twitter: http://twitter.com/ScottKFraley / @ScottKFraley
+- GitHub: http://github.com/CmdrBeavis
 
 ###### Please forgive the "CmdrBeavis" GitHub handle. I created my account LONG before I knew it would be a) basically permanent, and b) used to get jobs in the future.  :-)
+
+
